@@ -1,4 +1,3 @@
 User-agent: *
 
-Disallow: /sitemap.html
 Sitemap: http://pratikarccpipes.com/sitemap.xml
